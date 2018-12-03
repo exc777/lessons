@@ -1,9 +1,9 @@
 # Содержание
 
 
-### 1. [Общее понимание / ЛикБез](https://github.com/exc777/lessons/main.md)
-### 2. [Электроприборы](https://github.com/exc777/lessons/appliances.md)
-### 3. [Алгебра логики](https://github.com/exc777/lessons/logic.md)
+### 1. [Общее понимание / ЛикБез](https://github.com/exc777/lessons/blob/master/main.md)
+### 2. [Электроприборы](https://github.com/exc777/lessons/blob/master/appliances.md)
+### 3. [Алгебра логики](https://github.com/exc777/lessons/blob/master/logic.md)
 ### 4. Дискретная математика
 ### 5. Системы счисления
 ### 6. Алгоритмы
